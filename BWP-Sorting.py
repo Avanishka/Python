@@ -1,3 +1,5 @@
+//Avanish.k.a
+
 l = [19,-7,23,80,1,45,0,-99]  //Can be changed 
 print(l)
 

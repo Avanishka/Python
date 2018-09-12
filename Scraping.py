@@ -1,4 +1,6 @@
-mport requests,bs4
+//Avanish.k.a
+
+import requests,bs4
 a=str(input())
 b=[('q',a)]
 url="https://google.com/search?"

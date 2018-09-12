@@ -1,3 +1,5 @@
+//Avanish.k.a
+
 import random
 
 a = str(input('Enter a value: '))

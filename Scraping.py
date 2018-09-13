@@ -1,5 +1,6 @@
 //Avanish.k.a
 
+
 import requests,bs4
 a=str(input())
 b=[('q',a)]

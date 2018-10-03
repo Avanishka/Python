@@ -2,6 +2,7 @@
 
 
 import requests,bs4
+
 a = str(input())
 b = [('q',a)]
 url = "https://google.com/search?"

@@ -1,7 +1,10 @@
+//Avanish.K.a
+
 from PIL import Image
 from requests import get
 from pytesseract import image_to_string 
 from io import BytesIO
+
 a = get("https://i.imgur.com/53EnC0i.png") 
 img = Image.open(BytesIO(a.content))
 txt = image_to_string(img)

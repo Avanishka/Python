@@ -36,7 +36,7 @@ z=random.choice(data)
 
 m=x+y+z
 
-n = (''.join(reversed(z)))
+n = (''.join(reversed(m)))
 
 if(m==n):
 

@@ -3,7 +3,7 @@
 
 import requests,bs4
 
-a = str(input())
+a = str(input()) //Enter string you want to get searched
 b = [('q',a)]
 url = "https://google.com/search?"
 c = requests.get(url=url,params=b)

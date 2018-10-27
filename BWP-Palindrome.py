@@ -1,4 +1,4 @@
-//Avanish.k.a
+//Avanish.K.a
 
 import random
 
@@ -45,4 +45,6 @@ if(m==n):
 else:
 
     print("Not a Palindrome")
+    
+
     
